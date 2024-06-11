@@ -48,5 +48,12 @@ The LUMS Economics Datalab D3 Platform is designed to provide users with compreh
 2. Install dependencies:
    ```cd backend
       npm install
-      cd ../lums-economics-datalab
-      npm install```
+      cd ../backend
+      npm install
+3. Set up environment variables
+4. Run the backend server:
+   ```cd backend
+      node server.js
+5. Run the frontend:
+   ```cd ../frontend
+      npm start
